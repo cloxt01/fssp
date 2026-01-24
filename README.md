@@ -45,8 +45,6 @@ git clone https://github.com/cloxt01/smart-net.git
 
 ## Demo 
 
-## Demo 
-
-
 Lihat simulasi jaringan: [Network Sims](https://simulationnetwork-smartnet.vercel.app/)
+
 Lihat prototipe: [Smart-Net Figma Prototype](https://album-album-18756025.figma.site/)
