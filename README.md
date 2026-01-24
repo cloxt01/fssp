@@ -43,7 +43,7 @@ Anda dapat mengunduh seluruh repo dengan:
 git clone https://github.com/cloxt01/smart-net.git
 ```
 
-## Demo 
+## Demo (Desktop Only)
 
 Lihat simulasi jaringan: [Network Sims](https://simulationnetwork-smartnet.vercel.app/)
 
