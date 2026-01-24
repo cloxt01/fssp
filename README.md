@@ -42,3 +42,11 @@ Anda dapat mengunduh seluruh repo dengan:
 ```
 git clone https://github.com/cloxt01/smart-net.git
 ```
+
+## Demo 
+
+## Demo 
+
+
+Lihat simulasi jaringan: 
+Lihat prototipe: [Smart-Net Figma Prototype](https://album-album-18756025.figma.site/)
