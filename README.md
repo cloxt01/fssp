@@ -42,6 +42,7 @@ Anda dapat mengunduh seluruh repo dengan:
 ```
 git clone https://github.com/cloxt01/smart-net.git
 ```
+atau klik [disini](https://github.com/cloxt01/smart-net/archive/refs/heads/main.zip) untuk mengunduh
 
 ## Demo (Desktop Only)
 
