@@ -40,7 +40,7 @@ Folder ini berisi dokumen proposal dan penjelasan awal terkait konsep proyek Sma
 Anda dapat mengunduh seluruh repo dengan:
 
 ```
-git clone https://github.com/cloxt01/-net.git
+git clone https://github.com/cloxt01/fssp.git
 ```
 atau klik [disini](https://github.com/cloxt01/fssp/archive/refs/heads/main.zip) untuk mengunduh
 
