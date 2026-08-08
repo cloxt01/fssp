@@ -1,6 +1,6 @@
-# Smart-Net
+# Fisherman Safety System Prototype
 
-Smart-Net adalah inovasi produk berbasis prototipe digital yang dirancang untuk meningkatkan keselamatan nelayan melalui sistem komunikasi lokal tanpa ketergantungan pada jaringan seluler.
+Fisherman Safety System Prototype adalah inovasi produk berbasis prototipe digital yang dirancang untuk meningkatkan keselamatan nelayan melalui sistem komunikasi lokal tanpa ketergantungan pada jaringan seluler.
 
 ## Tentang Proyek
 
@@ -14,7 +14,7 @@ Tujuan umum repositori ini adalah menyimpan materi seperti:
 ## Struktur Repositori
 
 ```
-smart-net/
+fssp/
 ├── EXPO/              # Materi presentasi, dokumentasi expo/slide
 ├── Lainnya/           # File dan aset tambahan pendukung proyek
 ├── proposal/          # Dokumen proposal proyek
@@ -40,12 +40,12 @@ Folder ini berisi dokumen proposal dan penjelasan awal terkait konsep proyek Sma
 Anda dapat mengunduh seluruh repo dengan:
 
 ```
-git clone https://github.com/cloxt01/smart-net.git
+git clone https://github.com/cloxt01/-net.git
 ```
-atau klik [disini](https://github.com/cloxt01/smart-net/archive/refs/heads/main.zip) untuk mengunduh
+atau klik [disini](https://github.com/cloxt01/fssp/archive/refs/heads/main.zip) untuk mengunduh
 
 ## Demo (Desktop Only)
 
-Lihat simulasi jaringan: [Network Sims](https://simulationnetwork-smartnet.vercel.app/)
+Lihat simulasi jaringan: [Network Sims](https://simulationnetwork-fssp.vercel.app/)
 
-Lihat prototipe: [Smart-Net Figma Prototype](https://album-album-18756025.figma.site/)
+Lihat prototipe: [Fisherman Safety System Prototype Figma Prototype](https://album-album-18756025.figma.site/)
